@@ -6,6 +6,15 @@
 
 Spigot 1.7 及以下，因为 [DMCA Takedown](https://github.com/github/dmca/blob/master/2014/2014-09-05-CraftBukkit.md)，大约已经不存在于任何官方仓库中了。
 
+本仓库仅作 javadoc 备份，部署到 Github Pages 请见 [MrXiaoM/server-javadoc-deploy](https://github.com/MrXiaoM/server-javadoc-deploy)。
+
+## 用法
+
+```shell
+sh install.sh [网站根路径]
+```
+不填路径则默认为 `./out`
+
 ## spigot-api 1.8-latest
 
 ```kotlin
